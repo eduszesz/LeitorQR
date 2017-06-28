@@ -5,4 +5,5 @@ Aplicativo para leitura de códigos QR e códigos de barras. Aplicativo criado p
 
 Código fonte disponível no arquivo "LeitorQR_v1.0.aia". O código fonte pode ser verificado/editado utilizando o MIT App Inventor 2 disponível em http://appinventor.mit.edu/explore/get-started.
 
-Para instalar o aplicativo em seu dispositivo Android faça o download do arquivo "LeitorQR_v1.0.apk". Lembre-se de permitir que seu dispositivo instale aplicativos de outras fontes além da Play Store.
+Para instalar o aplicativo em seu dispositivo Android faça o download do arquivo "LeitorQR_v1.0.apk". Lembre-se de permitir que seu dispositivo instale aplicativos de outras fontes além da Play Store. Se preferir instale diretamente pela Play Store acessando: https://play.google.com/store/apps/details?id=appinventor.ai_eduszesz.LeitorQR
+
