@@ -13,4 +13,4 @@ App icon created by <div>Icons made by <a href="http://www.freepik.com" title="F
 
 Source code available in file "LeitorQR_v1.0.aia". The source code can be viewed/edited using the MIT App Inventor 2 available at http://appinventor.mit.edu/explore/get-started.
 
-Download the file "LeitorQR_v1.0.apk" to install the app. Remember to allow your device install the app from sources other than the Play Store. If you prefer, install directly from PLay Store at https://play.google.com/store/apps/details?id=appinventor.ai_eduszesz.LeitorQR.
+Download the file "LeitorQR_v1.0.apk" to install the app. Remember to allow your device to install the app from sources other than the Play Store. If you prefer, install directly from PLay Store at https://play.google.com/store/apps/details?id=appinventor.ai_eduszesz.LeitorQR.
